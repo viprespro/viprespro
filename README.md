@@ -1,9 +1,11 @@
 ### Hi Guys
 
-- I’m currently working  as a front-end web developer.
-- I’m currently learning all computer field things, focsing on web security and  data structures and algorithms.
-- I'm sure to be the whole stack direction.
-- To reach me with the email given left.
+- 🔭 I’m currently working  as a front-end web developer.
+- 🌱 I’m currently learning all computer field things, focsing on web security and  data structures and algorithms.
+- 😄 I'm sure to be the whole stack direction.
+- ⚡ To reach me with the email given left.
+
+[![viprespro github stats](https://github-readme-stats.vercel.app/api?username=viprespro)](//vipres.top)
 
 <!--
 **viprespro/viprespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
