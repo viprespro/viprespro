@@ -5,7 +5,7 @@
 - 😄 I'm sure to be the whole stack direction.
 - ⚡ To reach me with the email given left.
 
-[![viprespro github stats](https://github-profile-trophy.vercel.app/?username=viprespro&theme=gruvbox)](//vipres.top)
+[![viprespro github stats](https://github-profile-trophy.vercel.app/?username=viprespro&theme=gruvbox&rank=S,AAA,AA,A)](//vipres.top)
 
 [![viprespro github stats](https://github-readme-stats.vercel.app/api?username=viprespro)]()
 
