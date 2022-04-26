@@ -7,6 +7,8 @@
 
 [![viprespro github stats](https://github-readme-stats.vercel.app/api?username=viprespro)](//vipres.top)
 
+https://github-profile-trophy.vercel.app/?username=vipres&theme=gruvbox
+
 <!--
 **viprespro/viprespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
