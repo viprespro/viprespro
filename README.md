@@ -5,9 +5,8 @@
 - 😄 I'm sure to be the whole stack direction.
 - ⚡ To reach me with the email given left.
 
-[![viprespro github stats](https://github-readme-stats.vercel.app/api?username=viprespro)](//vipres.top)
+[![viprespro github stats](https://github-profile-trophy.vercel.app/?username=viprespro&theme=gruvbox)](//vipres.top)
 
-https://github-profile-trophy.vercel.app/?username=vipres&theme=gruvbox
 
 <!--
 **viprespro/viprespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
