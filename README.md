@@ -1,4 +1,5 @@
 ### Hi Guys
+[![Mail Badge](https://img.shields.io/badge/-244570102@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=244570102@qq.com)](mailto:244570102@qq.com) [![Github Badge](https://img.shields.io/badge/-viprespro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/viprespro/)](https://www.github.com/viprespro/)
 
 - 🔭 I’m currently working  as a front-end web developer.
 - 🌱 I’m currently learning all computer field things, focsing on web security and  data structures and algorithms.
