@@ -1,16 +1,12 @@
 ### Hi Guys
 [![Mail Badge](https://img.shields.io/badge/-244570102@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=244570102@qq.com)](mailto:244570102@qq.com) [![Github Badge](https://img.shields.io/badge/-viprespro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/viprespro/)](https://www.github.com/viprespro/)
 
-- 🔭 I’m currently working  as a front-end web developer focused on React ecology.
+- 🔭 I’m currently working  as a web developer focused on React ecology system.
 - 🌱 I’m currently learning all computer field things.
 - 😄 I'm sure to be the whole stack direction.
 - ⚡ To reach me with the email given left.
 
 [![viprespro github stats](https://github-profile-trophy.vercel.app/?username=viprespro&theme=gruvbox&rank=-B,-C)]()
-
----
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=viprespro&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
 
 ---
 
